@@ -290,7 +290,7 @@ export default {
       }
     },
     /**
-     *  事件轴计算
+     *  时间轴计算
      */
     timeline() {
       const percent = this.$video.currentTime / this.$video.duration;
